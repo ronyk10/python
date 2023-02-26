@@ -1,2 +1,2 @@
-book = "First test in PyCharm"
+book = "First test in PyCharm !"
 print(book)
